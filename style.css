@@ -1,0 +1,22 @@
+body {
+    font-family: Helvetica;
+    
+}
+
+.mainHeader {
+    background: #FFFF00;
+    margin: auto;
+    text-align: center;
+}
+
+.mainImage {
+    text-align: center;
+}
+
+.imageCaption {
+    font-size: 14px;
+}
+
+h2 {
+    font-family: cursive;
+}
